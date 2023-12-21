@@ -10,7 +10,7 @@ The following is a repo for the [Divide and Conquer V5](https://www.moddb.com/mo
 
 ## Configuration Options
 The launcher currently provides the following configuration options
-peepee poopoo test123 
+
 - **Use alternate strategy textures:** Use the strategy map textures from the AGO mod, with a more realistic satellite art style.
    ![](https://cdn.discordapp.com/attachments/417013331614892042/1129740969659601016/image.png)
    ![](https://cdn.discordapp.com/attachments/417013331614892042/1129740970167128154/image.png)
